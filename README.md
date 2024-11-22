@@ -12,7 +12,7 @@
 [ML3.4 Деревья решений]()
 
 
-[ML3.5 Метод K ближайших соседей]()
+[ML3.5 Метод K ближайших соседей](https://colab.research.google.com/drive/12ufdWQHR7X5X_l85LSVL0Kj2BkSsW51C?usp=sharing)
 
 
 [ML3.6 Наивный байесовский классификатор](https://colab.research.google.com/drive/1tmdxjwlpvuwejCjWvc-fZ6OmDon7e-o9?usp=sharing)
