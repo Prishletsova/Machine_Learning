@@ -1,6 +1,6 @@
 # Machine_Learning
 
-[ML3.1 Полиномиальные модели]()
+[ML3.1 Полиномиальные модели](https://colab.research.google.com/drive/1Qp6nGNe1THrWbw2dqWDTbggehocOl3dv?usp=sharing)
 
 
 [ML3.2 Метод опорных векторов]()
