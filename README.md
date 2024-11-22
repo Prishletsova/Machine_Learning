@@ -15,7 +15,7 @@
 [ML3.5 Метод K ближайших соседей]()
 
 
-[ML3.5 Наивный байесовский классификатор]()
+[ML3.5 Наивный байесовский классификатор](https://colab.research.google.com/drive/1tmdxjwlpvuwejCjWvc-fZ6OmDon7e-o9?usp=sharing)
 
 
 [ML4.1 Метрики эффективности моделей машинного обучения](https://colab.research.google.com/drive/1gabhS04mTwUdYfCYyQOwsS-KQTEZN3BP?usp=sharing)
