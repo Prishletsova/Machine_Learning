@@ -18,4 +18,4 @@
 [ML3.5 Наивный байесовский классификатор]()
 
 
-[ML4.1 Метрики эффективности моделей машинного обучения]()
+[ML4.1 Метрики эффективности моделей машинного обучения](https://colab.research.google.com/drive/1gabhS04mTwUdYfCYyQOwsS-KQTEZN3BP?usp=sharing)
