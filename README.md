@@ -3,7 +3,7 @@
 [ML3.1 Полиномиальные модели](https://colab.research.google.com/drive/1Qp6nGNe1THrWbw2dqWDTbggehocOl3dv?usp=sharing)
 
 
-[ML3.2 Метод опорных векторов]()
+[ML3.2 Метод опорных векторов](https://colab.research.google.com/drive/1HwY2XOO-mENKmWO44YICdNJtaV41iwEl?usp=sharing)
 
 
 [ML3.3 Перцептрон]()
