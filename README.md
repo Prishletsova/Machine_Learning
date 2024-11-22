@@ -6,7 +6,7 @@
 [ML3.2 Метод опорных векторов](https://colab.research.google.com/drive/1HwY2XOO-mENKmWO44YICdNJtaV41iwEl?usp=sharing)
 
 
-[ML3.3 Перцептрон]()
+[ML3.3 Перцептрон](https://colab.research.google.com/drive/1NydxyeCNeAQgl-93ycJ3wAdiWgiNWMvx?usp=sharing)
 
 
 [ML3.4 Деревья решений](https://colab.research.google.com/drive/1ZXVWmcZdiJVyXO4vm7trtS4WeItG4geM?usp=sharing)
